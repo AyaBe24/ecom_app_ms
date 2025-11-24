@@ -90,6 +90,8 @@ Le billing-service agrège les données des autres services pour construire une 
 
 - Liste des factures simples : `http://localhost:8889/BILLING-SERVICE/bills`
   <img width="711" height="982" alt="image" src="https://github.com/user-attachments/assets/f97dc058-b8e1-4d50-9efa-3ec3fd83382f" />
- 
+ - Détail d’une facture complète avec infos client et produits : 'http://localhost:8889/BILLING-SERVICE/bills/1'
+   <img width="612" height="772" alt="image" src="https://github.com/user-attachments/assets/08f82480-0fc3-4bd9-b8bf-d76aa4ca9a34" />
+
 
 ---
