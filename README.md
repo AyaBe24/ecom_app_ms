@@ -12,8 +12,7 @@ Il a été réalisé dans le cadre du cours JEE et Systèmes Avancés.
 3. [Guide de démarrage](#3-guide-de-démarrage)  
 4. [Validation des composants de l’architecture](#4-validation-des-composants-de-larchitecture)  
 5. [Présentation des endpoints et fonctionnalités](#5-présentation-des-endpoints-et-fonctionnalités)  
-6. [Interface frontend (Angular)](#6-interface-frontend-angular)  
-7. [Auteur](#7-auteur)  
+
 
 ---
 
